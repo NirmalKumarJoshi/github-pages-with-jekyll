@@ -1,15 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Open Source Dev.
+author: Nirmal Kumar Joshi
+email: nirmalkjoshi99@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hey readers, I Nirmal Kumar Joshi welcome you to the blog page on open source.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @NirmalJoshi99
+github_username:  NirmalKumarJoshi
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: minima
